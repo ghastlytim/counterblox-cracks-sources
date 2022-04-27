@@ -1,45 +1,6 @@
---[[
-	public release + this is really outdated because i haven't updated this for ages.
-]] 
-
-versiondisplay = 'yes.no'
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+versiondisplay = 'shiba'
 
 
 local bordercolorlist = {}
